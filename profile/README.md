@@ -1,4 +1,4 @@
-# Payapays
+# PayaStakes
 
 **Building Stellar-native financial primitives — prediction markets, peer-to-peer stakes, and programmable payouts.**
 
